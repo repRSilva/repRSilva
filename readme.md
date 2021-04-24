@@ -7,15 +7,15 @@
 
 ## Sobre
 
----
-Sou desenvolvedor Fullstack web e mobile, apaixonado por tecnologia e inovação.
+
+Sou desenvolvedor Fullstack web e mobile, apaixonado por tecnologia e inovação. Atualmente trabalho com a stack JS, utilizando diversas das ferramentas descritas abaixo. Entusiasta DevOps, tenho estudado Docker e Kubernetes. Tenho estudado muito sobre arquitetura de aplicações, sistemas distribuídos, arquitetura limpa, código limpo, design patterns e SOLID.
 
 🌐 &nbsp;[Website](https://604a6b690c0d970008526905--condescending-goldwasser-bbf65e.netlify.app/) - Meu site pessoal, está em construção \0/
 
 <br />
 
 ## Linguagem e ferramentas
----
+
 ![Html5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -45,7 +45,7 @@ Sou desenvolvedor Fullstack web e mobile, apaixonado por tecnologia e inovação
 <br />
 
 ## Estatísticas
----
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RepRSilva&show_icons=true&locale=pt-BR&layout=compact&theme=dark" alt="RepRSilva" />
 </p>
